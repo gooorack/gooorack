@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I love learning and building new products.  I find refactoring cathartic. I’m currently deep diving into SHA-256 algorithm and Travelling Salesman.
+
+- ⚡ Fun fact: Covid sucks!
+- 🌱 I’m currently learning Typescript, React and Keras
+- 
+- 📫 How to reach me: gooorack@gmail.com
+
 <!--
 **gooorack/gooorack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
