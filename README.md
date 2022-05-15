@@ -2,7 +2,7 @@
 
 I love learning and building new products.  I find refactoring cathartic. I’m currently deep diving into SHA-256 algorithm and Travelling Salesman.
 
-- ⚡ Fun fact: Covid sucks!
+- ⚡ Fun fact: 
 - 🌱 I’m currently learning Typescript, React and Keras
 - 
 - 📫 How to reach me: gooorack@gmail.com
